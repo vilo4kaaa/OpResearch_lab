@@ -1,0 +1,18 @@
+# Created by httpswww.toptal.comdevelopersgitignoreapivenv
+# Edit at httpswww.toptal.comdevelopersgitignoretemplates=venv
+
+### venv ###
+# Virtualenv
+# httpiamzed.com20090507a-primer-on-virtualenv
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+
+# End of httpswww.toptal.comdevelopersgitignoreapivenv
